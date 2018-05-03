@@ -1,0 +1,20 @@
+ {
+   "expo": {
+    "name": "Krasota",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "splash": {
+      "image": "./splash.png",
+      "backgroundColor": "#232d3d",
+      "resizeMode": "contain"
+    }
+   }
+ }

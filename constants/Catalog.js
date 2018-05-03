@@ -1,0 +1,4 @@
+export const TOUGLE_CATALOG_ITEM = 'TOUGLE_CATALOG_ITEM'
+export const SET_CATALOG = 'SET_CATALOG'
+export const SET_GROUP_ITEMS = 'SET_GROUP_ITEMS'
+export const CLEAR_ITEMS = 'CLEAR_ITEMS'
